@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+/build/
+/.vscode/ipch/
+/.vscode/.cmaketools.json
+compile_commands.json
+*.user
+*.log
